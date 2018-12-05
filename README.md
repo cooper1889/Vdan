@@ -1,9 +1,13 @@
 #Vdan
 
-大数据教育移动端服务器（SpringBoot+MySQL）
+大数据教育移动端服务器
 
-目录
+运行环境
 
-1、登录
+框架：SpringBoot
 
-  a、获取验证码，腾讯短信平台
+数据库：MySQL
+
+开发语言：Java
+
+
